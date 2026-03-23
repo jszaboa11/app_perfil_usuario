@@ -1,3 +1,3 @@
 # app_perfil_usuario
 
-A new Flutter project.
+Proyecto con el fin de demostrar como realizar serialización manual con Flutter.
